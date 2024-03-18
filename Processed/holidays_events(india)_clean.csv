@@ -13,7 +13,6 @@ date,type,description,transferred
 2012-feb-19,zondag,Shivaji Jayanti,Restricted Holiday
 2012-feb-20,maandag,Maha Shivaratri/Shivaratri,Gazetted Holiday
 2012-mrt-7,woensdag,Holika Dahana,Restricted Holiday
-2012-mrt-8,donderdag,Holi,Gazetted Holiday
 2012-mrt-8,donderdag,Holi,Restricted Holiday
 2012-mrt-20,dinsdag,March Equinox,Season
 2012-mrt-23,vrijdag,Chaitra Sukhladi,Restricted Holiday
@@ -82,7 +81,6 @@ date,type,description,transferred
 2013-mrt-20,woensdag,March Equinox,Season
 2013-mrt-26,dinsdag,First day of Passover,Observance
 2013-mrt-26,dinsdag,Holika Dahana,Restricted Holiday
-2013-mrt-27,woensdag,Holi,Gazetted Holiday
 2013-mrt-27,woensdag,Holi,Restricted Holiday
 2013-mrt-28,donderdag,Maundy Thursday,"Observance, Christian"
 2013-mrt-29,vrijdag,Good Friday,Gazetted Holiday
@@ -146,7 +144,6 @@ date,type,description,transferred
 2014-feb-19,woensdag,Shivaji Jayanti,Restricted Holiday
 2014-feb-24,maandag,Maharishi Dayanand Saraswati Jayanti,Restricted Holiday
 2014-feb-27,donderdag,Maha Shivaratri/Shivaratri,Gazetted Holiday
-2014-mrt-16,zondag,Holi,Gazetted Holiday
 2014-mrt-16,zondag,Holika Dahana,Restricted Holiday
 2014-mrt-17,maandag,Holi,Restricted Holiday
 2014-mrt-20,donderdag,March Equinox,Season
@@ -331,7 +328,7 @@ date,type,description,transferred
 2016-dec-25,zondag,First Day of Hanukkah,Observance
 2016-dec-25,zondag,Christmas,Gazetted Holiday
 2016-dec-31,zaterdag,New Year's Eve,Observance
-2016-jan-1,zondag,Last day of Hanukkah,Observance
+2017-jan-1,zondag,Last day of Hanukkah,Observance
 2017-jan-1,zondag,New Year's Day,Restricted Holiday
 2017-jan-5,donderdag,Guru Govind Singh Jayanti,Restricted Holiday
 2017-jan-14,zaterdag,Pongal,Restricted Holiday
