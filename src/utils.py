@@ -81,7 +81,7 @@ def display_value_counts(df, columns=None):
         print(value_counts)
         print("\n")
 
-def plot_histogram(df, column):
+def r(df, column):
     """
     Plot a histogram for a specified column in the DataFrame.
     
